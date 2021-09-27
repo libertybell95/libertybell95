@@ -19,4 +19,4 @@ I'm Josh. I'm a full time software developer always chasing the next project. Wh
 
 ⚡️ Fun fact: I credit most of my motivation for making maintainable code to my time as a helicopter mechanic!
 
-🧠 I'm currently learning: UI frameworks. I've managed to learn bootstrap like the back of my hand, now I want to learn more and spice 🌶 up the variety a bit.
+🧠 I'm currently learning: UI frameworks! I've managed to learn bootstrap like the back of my hand, now I want to learn more and spice 🌶 up the variety a bit.
