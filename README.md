@@ -31,3 +31,5 @@ I'm looking for help with Node.js/React.js project Structure! How do *you* organ
 * [danluu/post-mortems](https://github.com/danluu/post-mortems)
 
 ⚡️ Fun fact: I credit most of my motivation for making maintainable code to my time as a helicopter mechanic!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
