@@ -21,6 +21,8 @@ I'm Josh. I'm a full time software developer always chasing the next project. Wh
 
 🧠 I'm currently learning: UI frameworks! I've managed to learn bootstrap like the back of my hand, now I want to learn more and spice 🌶 up the variety a bit.
 
+🤔 I'm looking for help with: Node.js/React.js project structure. How do you organize them. Do you make them separate repos. Go hybrid with the react project *inside* of the Node.js project? Let me know your thoughts.
+
 🌟 Awesome repos:
 
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
