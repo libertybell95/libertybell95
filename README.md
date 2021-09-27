@@ -6,17 +6,20 @@ I'm Josh. I'm a full time software developer always chasing the next project. Wh
 
 I'm looking for help with Node.js/React.js project Structure! How do *you* organize them? Do *you* make them separate repos? Go hybrid with the react project *inside* of the Node.js project? Let me know your thoughts.
 
-## Languages & Tools
+## Languages
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=Typescript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+## Technologies
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 ## Awesome Repos
 
