@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **libertybell95/libertybell95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Josh. I'm a full time software developer. I'm always chasing the next project. Whether it's a web scraper or making the next API you'll find me diving into it! You'll find a plethora of projects sprinkled throughout my profile. A lot of them have to do with the [7th Cavalry Regiment](https://7cav.us) due to that being the place where I found my footing in development. I primarily focus my efforts in Node.js and React.js with some Python work on the side where Node.js falls short. I wish I could show you all the projects that I have worked on but some of them are 🤫 so you'll have to take my word that I'm coding almost every day!
+
+⚡️ Fun fact: I credit most of my motivation for making maintainable code to my time as a helicopter mechanic!
