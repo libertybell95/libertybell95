@@ -25,6 +25,5 @@ I'm Josh. I'm a full time software developer always chasing the next project. Wh
 
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 * [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-* [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 * [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) (The Security Bible)
 * [danluu/post-mortems](https://github.com/danluu/post-mortems)
