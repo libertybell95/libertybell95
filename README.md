@@ -18,7 +18,6 @@ I'm looking for help with Node.js/React.js project Structure! How do *you* organ
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 ## Awesome Repos
