@@ -21,7 +21,7 @@ I'm Josh. I'm a full time software developer always chasing the next project. Wh
 
 🧠 I'm currently learning: UI frameworks! I've managed to learn bootstrap like the back of my hand, now I want to learn more and spice 🌶 up the variety a bit.
 
-🌟 Absolute favorite (awesome) repos:
+🌟 Awesome repos:
 
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 * [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
