@@ -2,7 +2,7 @@
 
 [<img alt="Joshua's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/joshuakbell/)
 
-I'm Josh. I'm a full time software developer always chasing the next project. Whether it's a web scraper or making the next API you'll find me diving into it! You'll find a plethora of projects sprinkled throughout my profile. A lot of them have to do with the [7th Cavalry Regiment](https://7cav.us) due to that being the place where I found my footing in software development. I primarily focus my efforts in Node.js and React.js with Typescript under the hood. I also code in Python where Node.js falls short. I wish I could show you all the projects that I have worked on but some of them are private so you'll have to take my word that I'm coding almost every day!
+I'm Josh. I'm a full time software developer always chasing the next project. Whether it's a web scraper or making the next API you'll find me diving into it! There's a plethora of projects sprinkled throughout my profile. A lot of them have to do with the [7th Cavalry Regiment](https://7cav.us) due to that being the place where I found my footing in software development. I primarily focus my efforts in Node.js and React.js with Typescript under the hood. I also code in Python where Node.js falls short. I wish I could show you all the projects that I have worked on but some of them are private so you'll have to take my word that I'm coding almost every day!
 
 I'm looking for help with Node.js/React.js project Structure! How do *you* organize them? Do *you* make them separate repos? Go hybrid with the react project *inside* of the Node.js project? Let me know your thoughts.
 
