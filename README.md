@@ -22,6 +22,7 @@ I'm looking for help with Node.js/React.js project Structure! How do *you* organ
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
+![Nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx)
 
 ## Awesome Repos
 
