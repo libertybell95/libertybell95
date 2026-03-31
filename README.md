@@ -63,6 +63,6 @@ I spend most of my development time exploring:
 ---
 
 ⚡ **Fun Fact:**  
-I started in aviation maintenance. Diagnosing failures in the real world taught me everything I know about building resilient systems in the digital one.
+I started in aviation maintenance. Diagnosing failures in the real world gave me a solid foundation for building resilient systems in the digital one.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
